@@ -7,7 +7,7 @@
    <li>infirmier-labalme
   </ul>
 
-<li>Lister les mots clés
+<li>Lister les mots clés potentiels
  <ul>
    <li>Cabinet infirmier
    <li>Cabinet infirmière
@@ -18,7 +18,9 @@
    <li>Infirmière à domicile IDE
    <li>Infirmière diplomée d'état
  </ul>
-<li>Verifier les mots clés sur adword
+<li>Verifier les mots clés utilisés par la consurence sur Semrush
+<li>Verifier les mots clés sur adword et les frequences de recherche
+<li>Etablir le mot clé principal et les mots clés secondaires
 
 <li>Exemple de site :
  <ul>
