@@ -6,8 +6,39 @@ GOOGLE FONT
 
 @import url(http://fonts.googleapis.com/css?family=Ubuntu); /* FREE GOOGLE FONT */
 @import url(http://fonts.googleapis.com/css?family=Oswald); /* FREE GOOGLE FONT */
+/* =============================================================
+FONT
+============================================================ */
+@font-face {
+    font-family: 'Quicksand-Regular';
+
+    src: url('Quicksand-Regular.otf');
 
 
-h1{
-    font-family: 'Oswald', sans-serif;
+}
+header h1{
+    font-size: 3.5em
+}
+header h1,header h2{
+    font-family: 'Quicksand-Regular',Arial, sans-serif;
+    color: teal;
+}
+
+
+#image{
+    background-image: url("../img/7.jpg");
+    background-attachment: fixed; 
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-size: 100%;
+    height: 341px;
+}
+#image h2{
+    color: white;
+    font-size: 3.5em
+
+}
+footer{
+    height: 5em;
+    color: white;
+    background-color: teal;
 }
